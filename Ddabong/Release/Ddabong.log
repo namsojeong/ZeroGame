@@ -1,0 +1,20 @@
+﻿  Console.cpp
+  Field.cpp
+C:\Github\Ddabong\Ddabong\Field.cpp(20,10): warning C4566: 유니버설 문자 이름 '\uFF96'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(20,10): warning C4566: 유니버설 문자 이름 '\uFF65'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(22,10): warning C4566: 유니버설 문자 이름 '\u4E3F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(24,10): warning C4566: 유니버설 문자 이름 '\uFF89'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(181,25): warning C4566: 유니버설 문자 이름 '\uFF96'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(181,25): warning C4566: 유니버설 문자 이름 '\uFF65'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(182,25): warning C4566: 유니버설 문자 이름 '\u4E3F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(183,25): warning C4566: 유니버설 문자 이름 '\uFF89'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(644,25): warning C4566: 유니버설 문자 이름 '\uFF96'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(644,25): warning C4566: 유니버설 문자 이름 '\uFF65'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(645,25): warning C4566: 유니버설 문자 이름 '\u4E3F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Github\Ddabong\Ddabong\Field.cpp(646,25): warning C4566: 유니버설 문자 이름 '\uFF89'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  main.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 41 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Ddabong.vcxproj -> C:\Github\Ddabong\Ddabong\Release\Ddabong.exe

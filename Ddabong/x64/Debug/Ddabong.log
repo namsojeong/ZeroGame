@@ -1,0 +1,12 @@
+﻿  Console.cpp
+C:\Github\Ddabong\Ddabong\Console.cpp(43,88): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(43,88): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(45,76): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(45,76): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(50,79): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(50,79): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(53,90): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(53,90): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(55,72): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Github\Ddabong\Ddabong\Console.cpp(55,72): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+  Ddabong.vcxproj -> C:\Github\Ddabong\Ddabong\x64\Debug\Ddabong.exe
